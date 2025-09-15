@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <header>
-            <img src="/images/chef.png" alt="chef image" />
+            <img src="/chef.png" alt="chef image here" />
             <h1>Chef Mate</h1>
             
         </header>
