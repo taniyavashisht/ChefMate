@@ -34,7 +34,7 @@ export default function Base() {
     return (
         <main>
 
-           <p className="app-description">Your AI-powered sous chef. Just tell me what ingredients you have, and I'll whip up a recipe for you!</p>
+           <p className="app-description">Your AI-powered sous chef. What's in your pantry? Give me 4+ ingredients, and I'll whip up a delecious recipe for you!</p>
            <br />
 
 
